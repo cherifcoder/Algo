@@ -8,7 +8,7 @@ def isPrimeInterval(a,b):
             primeList.append(i)
     return primeList
 
-print(isPrimeInterval(2,9))
+print(isPrimeInterval(10,90))
           
         
     
